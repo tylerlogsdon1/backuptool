@@ -12,9 +12,9 @@ cd ./cache
 zip -r BACKUPS.zip .
 mv BACKUPS.zip ..
 cd ..
-rm ./cache/DEBs/*.*
-rm ./cache/Documents/*.*
-rm ./cache/Downloads/*.*
-rm ./cache/Media/*.*
-rm ./cache/Music/*.*
+rm ./cache/DEBs/*
+rm ./cache/Documents/*
+rm ./cache/Downloads/*
+rm ./cache/Media/*
+rm ./cache/Music/*
 notify-send "Backup Tool" "Backup Tool has completed. Find your files in BACKUPS.zip."
