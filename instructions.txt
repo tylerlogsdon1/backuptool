@@ -10,5 +10,11 @@
 2. Navigate to /Other Tools where you extracted BACKUPS.zip
 3. Run Restore_From_Backup.sh
 
+//HOW TO USE DRAG AND DROP BACKUP TOOL
+1. Extract your BACKUPS.zip
+2. Navigate to /Other Tools where you extracted BACKUPS.zip
+3. Move or copy the .sh file to the directory you want to back up
+4. Run Drag_And_Drop_Backup.sh
+
 //Created By: Tyler Blaine Logsdon
 //You are free to use and/or modify this file as you see fit.

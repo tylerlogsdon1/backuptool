@@ -1,9 +1,20 @@
 //MAKE SURE THAT THE .sh FILES IS EXECUTABLE (Right Click>>Properties>>Permissions>>Check Execute).
-//if you do not have xdotool installed, I have provided .deb files for it. just double click on it. It is located in the Dependencies folder.
+//if you do not have xdotool installed, I have provided .deb files for it. just double click on it. It is located in the Dependencies folder.(this allows the window to automatically be minimized).
 1. Extract this .zip file.
 2. Run Backup_Data.sh
 3. Wait for completion dialog
 4. Find your files located in BACKUPS.zip at the same directory as Backup_Data.sh
+
+//HOW TO RESTORE FROM BACKUP
+1. Extract your BACKUPS.zip
+2. Navigate to /Other Tools where you extracted BACKUPS.zip
+3. Run Restore_From_Backup.sh
+
+//HOW TO USE DRAG AND DROP BACKUP TOOL
+1. Extract your BACKUPS.zip
+2. Navigate to /Other Tools where you extracted BACKUPS.zip
+3. Move or copy the .sh file to the directory you want to back up
+4. Run Drag_And_Drop_Backup.sh
 
 //Created By: Tyler Blaine Logsdon
 //You are free to use and/or modify this file as you see fit.
