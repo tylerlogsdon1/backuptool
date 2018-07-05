@@ -1,5 +1,4 @@
 #!/bin/bash
-xdotool windowminimize $(xdotool getactivewindow)
 notify-send "Backup Tool" "Backup Tool is running. You may keep working and you will be notified upon completion."
 rm BACKUPS.zip
 rsync -a /var/cache/apt/archives/*.deb ./cache/DEBs/

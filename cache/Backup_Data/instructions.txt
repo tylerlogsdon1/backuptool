@@ -1,5 +1,4 @@
 //MAKE SURE THAT THE .sh FILES IS EXECUTABLE (Right Click>>Properties>>Permissions>>Check Execute).
-//if you do not have xdotool installed, I have provided .deb files for it. just double click on it. It is located in the Dependencies folder.(this allows the window to automatically be minimized).
 1. Extract this .zip file.
 2. Run Backup_Data.sh
 3. Wait for completion dialog
